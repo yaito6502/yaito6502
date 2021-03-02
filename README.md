@@ -35,13 +35,10 @@ miniRT(2021/2/11)
 ---
 
 libasm(in progress)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/yaito/libasm)](https://github.com/JaeSeoKim/badge42)
 ---
 
 ft_services(in progress)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/yaito/ft_services)](https://github.com/JaeSeoKim/badge42)
 ---
 
 minishell(in progress)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/yaito/minishell)](https://github.com/JaeSeoKim/badge42)
 ---
